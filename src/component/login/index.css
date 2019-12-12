@@ -1,0 +1,16 @@
+#main{
+    margin: 25px;
+}
+
+#description{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#login-btn{
+    margin-top: 8px;
+}
+
+#link{
+    text-decoration: none;
+}

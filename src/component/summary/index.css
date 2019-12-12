@@ -1,0 +1,39 @@
+#main{
+    margin: 25px;
+}
+
+#part{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+#question{
+    font-size: 18px;
+    color: rgba(46, 46, 46, 0.7);
+    font-weight: 200;
+}
+
+#answer{
+    margin-top: 8px;
+    color: blue;
+}
+
+.questionBox{
+    margin-top: 20px;
+}
+
+.form{
+    margin-top: 20px;
+}
+
+.form-input{
+    width: 80%;
+}
+
+#castbtn{
+    height: 45px;
+}
+
+#link{
+    text-decoration: none;
+}
