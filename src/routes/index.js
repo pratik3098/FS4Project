@@ -15,7 +15,7 @@ function Index() {
     return (
         <Router>
             <Switch>
-                <Route path="/voting/1" exact={true}>
+                <Route path="/voting/1" exact={true} >
                     <Voting1/>
                 </Route>
                 <Route path="/voting/2" exact={true}>
